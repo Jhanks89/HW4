@@ -39,7 +39,3 @@
    <img src="https://user-images.githubusercontent.com/98415116/158931766-a0657cb9-2597-496b-a16f-295edc7f8165.png" alt="old boat cartoon image">
    <figcaption>UGI</figcaption>
 </figure>
-figure 
-{ 
-float: right; margin-left: 10px; text-align:center; }
-figcaption { font-size: 0.7em; font-style:italic; color:red; }
