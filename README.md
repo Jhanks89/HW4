@@ -8,7 +8,8 @@
 <style>
 	body {
 	background-color: lightblue;
-	background-image: url(image/elementarystudent.png), url(https://user-images.githubusercontent.com/98415116/158924241-0a50f7b1-5c72-4250-9e29-1d2a21de9042.jpg)
+	background-image: url(https://user-images.githubusercontent.com/98415116/158928995-0e343062-e8f1-42b5-883f-a5569d47f2a7.png)
+, url(https://user-images.githubusercontent.com/98415116/158924241-0a50f7b1-5c72-4250-9e29-1d2a21de9042.jpg)
 ;
 	background-position: right top, left bottom;
 	background-repeat: no-repeat, no-repeat;
