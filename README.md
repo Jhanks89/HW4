@@ -10,4 +10,4 @@
   <br>
   <br>
 <p><i>At the University of Gifted Individual, we continue to excel in accepting all students of every aspect of life that want to grow in their education that harness a special gift. In order for our university to provide the best possible education and experince for our students, we have a staff of very qualified instructors that will lead students through a well balanced curriculum. We will continue to create an environment and culture that is diverse, inclusive, and structured."</i></p>
-  <p style="background-image: url('![student](student.jpg)');">
+  <img src="![student](https://user-images.githubusercontent.com/98415116/158922084-9fa71db9-e874-42fe-be08-962bb2c9646e.jpg)" alt="Student at computer cartoon" width="100" height="100">
