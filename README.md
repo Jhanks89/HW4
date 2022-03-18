@@ -25,12 +25,7 @@
 	margin-right: auto;
 	width: 70%;
 	}
-	figcaption { font-size: 0.7em;
-
-	font-style:italic;
-	color:red;
-	width: 200px;
-	}
+	
 </style>
   <h1><div style="text-align:center; color:darkblue; font size:100px;">University of Gifted Individual (UGI)</div></h1>
   <br>
