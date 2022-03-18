@@ -19,13 +19,6 @@
 	margin-left: 70px;
 	margin-right: 140px; 
 	}
-	figure {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 70%;
-	}
-	
 </style>
   <h1><div style="text-align:center; color:darkblue; font size:100px;">University of Gifted Individual (UGI)</div></h1>
   <br>
